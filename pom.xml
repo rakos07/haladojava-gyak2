@@ -10,6 +10,7 @@
   <version>0.0.1-SNAPSHOT</version>
   <modules>
     <module>logika-interface</module>
+      <module>object_mapper</module>
   </modules>
 
   <name>logika</name>

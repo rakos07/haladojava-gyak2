@@ -42,7 +42,7 @@ public class KeresFeldolgozoTest {
     void feldolgoz_whenOsszeadas_thenGiveValidResult() {
 
         Calculator calculator = Mockito.mock(Calculator.class);
-        when(calculator.osszeadas(3, 4)).thenReturn(7.);
+        when(calculator.subtract(3, 4)).thenReturn(7.);
 
         KeresFeldolgozo keresFeldolgozo = new KeresFeldolgozo(calculator);
 
