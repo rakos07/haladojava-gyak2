@@ -1,37 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1e92db38-8a65-4693-a3e2-151a8c3733e6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/haladojava-gyak2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kapcsolattarto/target/classes/hu/me/Hibakod.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kapcsolattarto/target/classes/hu/me/InputValues.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kapcsolattarto/target/classes/hu/me/KeresFeldolgozo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kapcsolattarto/target/classes/hu/me/OutputValues.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kapcsolattarto/target/test-classes/hu/me/KeresFeldolgozoTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logika-interface/src/main/java/hu/me/logika/CalculatorImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logika-interface/target/classes/hu/me/logika/CalculatorImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/object_mapper/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/object_mapper/src/main/java/hu/me/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/object_mapper/src/test/java/hu/me/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/object_mapper/target/classes/hu/me/App.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/object_mapper/target/test-classes/hu/me/AppTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kapcsolattarto/kapcsolattarto.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kapcsolattarto/src/main/java/hu/me/App.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kapcsolattarto/src/main/java/hu/me/InputValues.java" beforeDir="false" afterPath="$PROJECT_DIR$/kapcsolattarto/src/main/java/hu/me/InputValues.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kapcsolattarto/src/main/java/hu/me/KeresFeldolgozo.java" beforeDir="false" afterPath="$PROJECT_DIR$/kapcsolattarto/src/main/java/hu/me/KeresFeldolgozo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kapcsolattarto/src/test/java/hu/me/KeresFeldolgozoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/kapcsolattarto/src/test/java/hu/me/KeresFeldolgozoTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logika-interface/logika-interface.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/logika-interface/src/main/java/hu/me/logika/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/logika-interface/src/main/java/hu/me/logika/Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logika-interface/target/classes/hu/me/logika/Calculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/logika-interface/target/classes/hu/me/logika/Calculator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logika-interface/target/surefire-reports/TEST-hu.me.AppTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/logika-interface/target/surefire-reports/TEST-hu.me.AppTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logika-interface/target/surefire-reports/hu.me.AppTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/logika-interface/target/surefire-reports/hu.me.AppTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="1e92db38-8a65-4693-a3e2-151a8c3733e6" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/kapcsolattarto/target/" />
@@ -437,12 +407,12 @@
       <workItem from="1551716090550" duration="1995000" />
       <workItem from="1551719253347" duration="34000" />
       <workItem from="1551721055996" duration="4635000" />
-      <workItem from="1551733070213" duration="1694000" />
+      <workItem from="1551733070213" duration="1963000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48457000" />
+    <option name="totallyTimeSpent" value="48726000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="801" y="159" width="757" height="654" extended-state="0" />
